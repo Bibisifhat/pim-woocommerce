@@ -5,6 +5,10 @@ A small but complete **Product Information Management (PIM)** system. It is the 
 Built for a 120-minute hackathon: full stack (frontend, backend, database) plus a live e-commerce integration.
 
 ---
+# Demo video drive link
+
+**https://drive.google.com/drive/folders/1eZBmRmqT9LKuZ6K5cf28HEQk0FtLxVem?usp=drive_link**
+---
 
 ## Table of contents
 
