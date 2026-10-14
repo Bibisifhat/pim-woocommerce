@@ -7,7 +7,7 @@ Built for a 120-minute hackathon: full stack (frontend, backend, database) plus 
 ---
 # Demo video drive link
 
-**https://drive.google.com/drive/folders/1eZBmRmqT9LKuZ6K5cf28HEQk0FtLxVem?usp=drive_link**
+**https://drive.google.com/drive/folders/1eZBmRmqT9LKuZ6K5cf28HEQk0FtLxVe?usp=drive_link**
 ---
 
 ## Table of contents
